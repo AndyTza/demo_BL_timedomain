@@ -1,2 +1,1 @@
-# demo_tda_asv
-Demo for anomaly detection and strange stellar variability for the Breakthrough Listen
+# Searching for Anomalous Variability in Modern Time-Domain Surveys
