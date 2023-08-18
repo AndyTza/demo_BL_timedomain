@@ -1,0 +1,18 @@
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23btl/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23brg/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia23bol/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22byo/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22bpa/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22auh/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia21foy/ # cool
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22adn/ # red star dimming....
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22alm/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia21fkq/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia22dzx/
+http://gsaweb.ast.cam.ac.uk/alerts/alert/Gaia19cfk/
+https://alerce.online/object/ZTF18abocfih
+https://alerce.online/object/ZTF18aboksce
+https://ztf.snad.space/dr13/view/383202100183480
+https://ztf.snad.space/dr17/view/258202200017596
+
+
