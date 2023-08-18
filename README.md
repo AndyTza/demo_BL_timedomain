@@ -1,4 +1,4 @@
 # Searching for Anomalous Variability in Modern Time-Domain Surveys
 
 
-![demo-lightcurve](https://github.com/AndyTza/andytza.github.io/blob/master/images/CLU_Map.png?raw=true)
+![demo-lightcurve](https://github.com/AndyTza/demo_BL_timedomain/blob/main/figures/hr-demo-lc.png?raw=true)
